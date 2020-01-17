@@ -2,4 +2,6 @@
 
 ----------------------------------------------
 
-Python script that will test your Internet connection and then send a Tweet to your service provider.
+Script en phyton pour tester ça connexion Internet et envoyer sur twitter un Tweet a son FAI.
+
+
